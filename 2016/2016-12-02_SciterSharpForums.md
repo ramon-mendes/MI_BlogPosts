@@ -1,0 +1,1 @@
+﻿SciterSharp and C# related questions can now be made at Sciter's forum specific section: [http://sciter.com/forums/forum/scitersharp-c/](http://sciter.com/forums/forum/scitersharp-c/).
