@@ -2,4 +2,4 @@
 
 A **complete Sciter app** for your delight and inspiration.
 
-So to test/compile, just clone the repo and open the solution in Visual Studio: [https://github.com/MISoftware/IconDrop](https://github.com/MISoftware/IconDrop)
+So to test/compile, just clone the repo and open the solution in Visual Studio: [https://github.com/ramon-mendes/IconDrop](https://github.com/ramon-mendes/IconDrop)

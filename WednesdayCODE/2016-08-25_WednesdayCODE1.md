@@ -9,11 +9,11 @@ Without further ado, out first installment is about CSS transitions. Our example
 In web-terms, we usually call those big headers as Hero (or sometimes Jumbotron).
 In our example, when you move your mouse hover, it animates the background and the image displaying.
 
-**[Download source-code / GitHub](https://github.com/MISoftware/WednesdayCODE/tree/master/TransitionsJoy)**
+**[Download source-code / GitHub](https://github.com/ramon-mendes/WednesdayCODE/tree/master/TransitionsJoy)**
 
 **Test DEMO with this link: ([how to run it](/Home/Post/WednesdayCODE-Intro))**
 
-<a href="omnifiddler://url/https://rawcdn.githack.com/MISoftware/WednesdayCODE/master/TransitionsJoy/TransitionsJoy.html" class="fiddler-link">Drag-me to OmniFiddler</a>
+<a href="omnifiddler://url/https://rawcdn.githack.com/ramon-mendes/WednesdayCODE/master/TransitionsJoy/TransitionsJoy.html" class="fiddler-link">Drag-me to OmniFiddler</a>
 
 ---
 

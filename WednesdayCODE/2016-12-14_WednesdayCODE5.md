@@ -2,8 +2,8 @@
 
 ![](/Content/BlogCDN/WedCODE5-xmas.gif)
 
-**[Download source-code](https://github.com/MISoftware/WednesdayCODE/raw/master/WavyMirror/WavyMirror.zip)**
+**[Download source-code](https://github.com/ramon-mendes/WednesdayCODE/raw/master/WavyMirror/WavyMirror.zip)**
 
 **Test DEMO with this link: ([how to run it](/Home/Post/WednesdayCODE-Intro))**
 
-<a href="omnifiddler://url/https://rawcdn.githack.com/MISoftware/WednesdayCODE/master/WavyMirror/WavyMirror.htm" class="fiddler-link">Drag-me to OmniFiddler and <i class="icon-play-outline"></i>Run</a>
+<a href="omnifiddler://url/https://rawcdn.githack.com/ramon-mendes/WednesdayCODE/master/WavyMirror/WavyMirror.htm" class="fiddler-link">Drag-me to OmniFiddler and <i class="icon-play-outline"></i>Run</a>

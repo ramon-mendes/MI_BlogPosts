@@ -14,4 +14,4 @@ So yeah, Sciter community in gaining an incredible piece of sotfware, and I hope
 
 ---
 
-For **source-code** just head to its [GitHub repo](https://github.com/MISoftware/OmniLite).
+For **source-code** just head to its [GitHub repo](https://github.com/ramon-mendes/OmniLite).

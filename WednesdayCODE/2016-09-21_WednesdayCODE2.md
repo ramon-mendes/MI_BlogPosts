@@ -13,17 +13,17 @@ The main goal is to achieve a functional UI with drag'n'drop where you can **rea
 1. This one deals with implementing every visual aspect required, that is, we will write all HTML and CSS code necessary, and any script required to dynamically construct HTML.
 2. In the second part we make the UI interactive by adding the drag'n'drop support through scripting.
 
-**[Download source-code / GitHub](https://github.com/MISoftware/WednesdayCODE/tree/master/Trello)**
+**[Download source-code / GitHub](https://github.com/ramon-mendes/WednesdayCODE/tree/master/Trello)**
 
 **Test DEMO with this link: ([how to run it](/Home/Post/WednesdayCODE-Intro))**
 
-<a href="omnifiddler://url/https://rawcdn.githack.com/MISoftware/WednesdayCODE/master/Trello/Trello.html" class="fiddler-link">Drag-me to OmniFiddler and <i class="icon-play-outline"></i>Run</a>
+<a href="omnifiddler://url/https://rawcdn.githack.com/ramon-mendes/WednesdayCODE/master/Trello/Trello.html" class="fiddler-link">Drag-me to OmniFiddler and <i class="icon-play-outline"></i>Run</a>
 
 ---
 
 ## HTML explained: templates
 
-The file Trello.html contains all our HTML code, you should [check it at GitHub](https://github.com/MISoftware/WednesdayCODE/blob/master/Trello/Trello.html#L224).
+The file Trello.html contains all our HTML code, you should [check it at GitHub](https://github.com/ramon-mendes/WednesdayCODE/blob/master/Trello/Trello.html#L224).
 
 Our Trello board has lists (columns) and cards/tasks (itens inside each column). Lists are arranged horizontally, cards vertically.
 

@@ -12,7 +12,7 @@ Among the new features, here are the highlights:
 <br/>
 
 
-**OmniView** — [more info](/Home/Post/OmniView), [source-code](https://github.com/MISoftware/OmniView)
+**OmniView** — [more info](/Home/Post/OmniView), [source-code](https://github.com/ramon-mendes/OmniView)
 
 I've made many improvements to this tool. One major one is that it nows recreates the child Sciter window whenever you edit your HTML (while same TIScript VM is preserved); previously, it was always the same HWND, so when you reloaded the page, event-handlers and popups could be kept 'alive'.
 

@@ -1,7 +1,7 @@
 ﻿**Wednesday CODE** will be a biweekly showcase of any Sciter HTML sample I end building up!
 It is not weekly because so I don't commit too much, but it might appear in a weekly basis, hopefully.
 
-All HTML samples will be hosted at GitHub here: [https://github.com/MISoftware/WednesdayCODE](https://github.com/MISoftware/WednesdayCODE)
+All HTML samples will be hosted at GitHub here: [https://github.com/ramon-mendes/WednesdayCODE](https://github.com/ramon-mendes/WednesdayCODE)
 
 It will be room for Sciter insights and technical explanations. I will probably add comments support to the site for you to easily make enquiries.
 
@@ -19,7 +19,7 @@ It will be room for Sciter insights and technical explanations. I will probably 
 
 URL of samples will look like this:
 
-<a href="omnifiddler://url/https://rawcdn.githack.com/MISoftware/WednesdayCODE/master/TransitionsJoy/TransitionsJoy.html" class="fiddler-link">Drag-me to OmniFiddler</a>
+<a href="omnifiddler://url/https://rawcdn.githack.com/ramon-mendes/WednesdayCODE/master/TransitionsJoy/TransitionsJoy.html" class="fiddler-link">Drag-me to OmniFiddler</a>
 
 This way you can easily identify them and can simply drag it to inside OmniFiddler.
 

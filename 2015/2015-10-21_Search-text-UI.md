@@ -2,7 +2,7 @@ Here is a complete search-text function and it's corresponding UI for Sciter eng
 
 This is the exact implementation which will appear in the upcoming version Omni to let you search in the docs pages.
 
-[Source at GitHub](https://github.com/MISoftware/lib_search.tis)
+[Source at GitHub](https://github.com/ramon-mendes/lib_search.tis)
 
 ![](/Content/BlogCDN/search.gif)
 
