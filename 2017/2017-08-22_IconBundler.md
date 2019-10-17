@@ -15,9 +15,9 @@ Don't forget to `@import` the generated CSS file. Inside IconBundler you can fin
 
 ---
 
-**[<i class="icon-download"></i> Download](/Download/IconBundlerWin)** for Windows (64 bits)
+**[<i class="icon-download"></i> Download](https://www.dropbox.com/s/8duqumdt1ylf1yo/IconBundlerWin.zip?dl=1)** for Windows (64 bits)
 
-**[<i class="icon-download"></i> Download](/Download/IconBundlerOSX)** for macOSX
+**[<i class="icon-download"></i> Download](https://www.dropbox.com/s/gxdjpt3fggj16v5/IconDropOSX.zip?dl=1)** for macOSX
 
 ---
 

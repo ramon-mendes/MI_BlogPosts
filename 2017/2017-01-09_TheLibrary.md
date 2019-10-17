@@ -1,8 +1,6 @@
-﻿<img src="/Content/BlogCDN/TheLibrary.png" />
+﻿Download for Windows: **[<i class="icon-download"></i> Download](https://www.dropbox.com/s/pv87pkgbm1m0sdv/TheLibraryWIN.zip?dl=1)**
 
-Download for Windows: **[<i class="icon-download"></i> Download](/Download/App?file=TheLibraryWIN)**
-
-Download for OSX: **[<i class="icon-download"></i> Download](/Download/App?file=TheLibraryOSX)**
+Download for OSX: **[<i class="icon-download"></i> Download](https://www.dropbox.com/s/fcmq5860mr9zaxl/TheLibraryOSX.zip?dl=1)**
 
 **'The Library'** is a new free desktop app for Sciter developers. It is a collection of helpful content (like Sciter's SDK documentation), tooling, and HTML samples,
 making then easily accessible for your day-to-day Sciter related work.
@@ -19,3 +17,7 @@ It has the following tabs:
 Note the recent addition: the *Fiddler* tab allows you to quickly test any HTML for Sciter. It is essentially a streamlined port of [OmniFiddler](/Home/Post/OmniFiddler).
 
 PS.: if you are really enjoy this free tool, consider [OmniCode](/OmniCode) which has this Library built-in, and additionally it offers great Visual Studio Intellisense integration.
+
+![/Content/BlogCDN/TheLibrary1.png](/Content/BlogCDN/TheLibrary1.png)
+
+![/Content/BlogCDN/TheLibrary2.png](/Content/BlogCDN/TheLibrary2.png)
