@@ -1,6 +1,6 @@
-﻿Download for Windows: **[<i class="icon-download"></i> Download](https://www.dropbox.com/s/pv87pkgbm1m0sdv/TheLibraryWIN.zip?dl=1)**
+﻿Download for Windows: **[<i class="icon-download"></i> Download](https://drive.google.com/file/d/1n491pELThk3IiePWgJ8CaXzocMjEs8PD/view?usp=sharing)**
 
-Download for OSX: **[<i class="icon-download"></i> Download](https://www.dropbox.com/s/fcmq5860mr9zaxl/TheLibraryOSX.zip?dl=1)**
+Download for OSX: **[<i class="icon-download"></i> Download](https://drive.google.com/file/d/1xhQZtOlSvM76gAbtRyeL-qYLB64eTBaD/view?usp=sharing)**
 
 **'The Library'** is a new free desktop app for Sciter developers. It is a collection of helpful content (like Sciter's SDK documentation), tooling, and HTML samples,
 making then easily accessible for your day-to-day Sciter related work.
